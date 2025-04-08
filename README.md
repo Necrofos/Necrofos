@@ -1,4 +1,4 @@
-# 👋 Привет! Меня зовут Иван
+# 👋 Привет!
 
 
 Я занимаюсь разработкой, люблю писать чистый код, осваивать новые технологии и решать нетривиальные задачи. В работе ценю практичность, стабильность и элегантные решения.
@@ -26,11 +26,16 @@
 
 
 ### ⚙️ Библиотеки и инструменты:
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![STL](https://img.shields.io/badge/-STL-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Boost](https://img.shields.io/badge/-Boost-0082C9?style=flat-square)
 ![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![SFML](https://img.shields.io/badge/-SFML-8CC445?style=flat-square&logo=sfml&logoColor=white)
+![telebot](https://img.shields.io/badge/-telebot-1DA1F2?style=flat-square&logo=telegram&logoColor=white)
+![matplotlib](https://img.shields.io/badge/-matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+
 
 
 > 🧠 “Код пишется для людей, которые его читают, а не для машин, которые его выполняют.” — М. Абельсон
